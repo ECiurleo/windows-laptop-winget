@@ -1,7 +1,7 @@
 # Software Installation Script
 Write-Host "Starting software installation..." -ForegroundColor Green
 
-# Install applications with error handling add any new products below
+# Install applications with error handling, add any new products below
 $apps = @(
     "7zip.7zip",
     "TeamViewer.TeamViewer", 
