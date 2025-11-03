@@ -1,0 +1,5 @@
+winget install -e --silent --accept-package-agreements --id Notepad++.Notepad++ 
+winget install -e --silent --accept-package-agreements --id 7zip.7zip
+winget install -e --silent --accept-package-agreements --id TeamViewer.TeamViewer
+winget install -e --silent --accept-package-agreements --id Microsoft.Office
+winget install -e --silent --accept-package-agreements --id Microsoft.VisualStudioCode
